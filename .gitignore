@@ -1,0 +1,23 @@
+# Data
+data/raw/*.csv
+data/processed/*.csv
+
+# Model
+models/*.pkl
+
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
