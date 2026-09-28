@@ -3,7 +3,7 @@ data/raw/*.csv
 data/processed/*.csv
 
 # Model
-models/*.pkl
+#models/*.pkl
 
 # Virtual environment
 venv/
