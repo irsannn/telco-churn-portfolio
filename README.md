@@ -111,21 +111,3 @@ Irsan Khomis
 
 GitHub: @irsannn
 
-text
-
----
-
-## 🎯 Langkah
-
-1. Buka `README.md`, **`Ctrl+A`** → **`Delete`**.
-2. **Paste** kode di atas.
-3. **Ganti** `[Nama Kamu]` dan link LinkedIn.
-4. Simpan (`Ctrl+S`).
-5. Commit & push:
-   ```bash
-   git add README.md
-   git commit -m "docs: simplify README"
-   git push
-
-
-
