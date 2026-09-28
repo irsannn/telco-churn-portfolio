@@ -111,8 +111,6 @@ Irsan Khomis
 
 GitHub: @irsannn
 
-LinkedIn: linkedin.com/in/username
-
 text
 
 ---
